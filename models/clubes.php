@@ -1,6 +1,6 @@
 <?php
 
-require_once("../configs/connection.php");
+require_once("../../configs/connection.php");
 
 class Clubes { 
 
