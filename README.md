@@ -21,3 +21,6 @@
 - `Add Clube (POST)` http://localhost/CBC/api/clubes
 - `Lista Clubes (GET)` http://localhost/CBC/api/clubes
 - `Console Recurso (POST)` http://localhost/CBC/api/recursos/consome-recursos.php
+
+
+	![Grid Garden screenshot](https://repository-images.githubusercontent.com/642474736/a5358c70-fd83-4af2-bb5a-0bdee65a3c15)
