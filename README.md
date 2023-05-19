@@ -45,7 +45,7 @@
 ## ✔️ Observação:
 Para este projeto, optei por utilizar PHP puro, pois entendi no documento enviado que o conhecimento, habilidade e raciocínio lógico seriam avaliados. Busquei reduzir a quantidade de arquivos para facilitar o entendimento.
 No entanto, se fosse um projeto para produção, eu implementaria utilizando um framework PHP como Zend ou Laravel.
-Front-end feito somente para teste dos end-points. Por favor, desconsidere o código, foi feito as pressas.
+Sei que não estava no escopo, mas fiz um front-end somente para teste dos end-points. Por favor, desconsidere o código, foi feito as pressas.
 
 ## ✔️ Front-End
 - `Acesso` http://gds.tecnologia.ws/cbc.php
