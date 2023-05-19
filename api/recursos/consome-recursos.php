@@ -3,7 +3,7 @@
 include_once("../../models/clubes.php");
 include_once("../../models/recursos.php");
 
-if($_SERVER['REQUEST_METHOD'] == "PUT") {
+if($_SERVER['REQUEST_METHOD'] == "POST") {
 
     $dbClubes = new Clubes();
     $dbRecursos = new Recursos();
